@@ -177,7 +177,7 @@ Alternatively, contact me:
 📧 **ffarhanah03@gmail.com**
 
 LinkedIn:
-(Your LinkedIn URL)
+(https://www.linkedin.com/in/fatin-farhanah-415266257/)
 
 ---
 
