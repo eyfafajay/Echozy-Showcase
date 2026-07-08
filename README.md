@@ -67,37 +67,37 @@ This project was developed using the Rapid Application Development (RAD) methodo
 
 ## Homepage
 
-![Homepage](assets/screenshots/home.png)
+![Homepage](assets/1_screenshots/1_home.png)
 
 ---
 
 ## Patient Communication Board
 
-![Communication Board](assets/screenshots/communication-board.png)
+![Communication Board](assets/1_screenshots/6_communication-board.png)
 
 ---
 
 ## Caregiver Dashboard
 
-![Caregiver Dashboard](assets/screenshots/caregiver-dashboard.png)
+![Caregiver Dashboard](assets/1_screenshots/3_caregiver-dashboard.png)
 
 ---
 
 ## Healthcare Provider Dashboard
 
-![Healthcare Dashboard](assets/screenshots/healthcare-dashboard.png)
+![Healthcare Dashboard](assets/1_screenshots/4_healthcare-dashboard.png)
 
 ---
 
 ## Practice Communication
 
-![Practice](assets/screenshots/practice.png)
+![Practice](assets/1_screenshots/7_practice.png)
 
 ---
 
 # 🏗️ System Architecture
 
-![Architecture](assets/architecture/system-architecture.png)
+![Architecture](assets/2_architecture/1_system-architecture.png)
 
 Echozy follows a modern web architecture consisting of:
 
