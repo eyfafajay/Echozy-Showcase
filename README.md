@@ -13,7 +13,7 @@
 
 Echozy is a Final Year Project developed as part of the Bachelor of Software Engineering (Hons.) at Universiti Malaysia Sarawak (UNIMAS). It is designed to support stroke patients with communication impairments by providing an accessible, multilingual Augmentative and Alternative Communication (AAC) platform.
 
-The platform enables patients to communicate through touch-based interaction while allowing caregivers and healthcare professionals to personalize communication content, monitor patient progress, and support rehabilitation.
+Built with HTML, CSS, JavaScript, Supabase, and OpenAI Text-to-Speech, Echozy enables touch-based communication, personalized phrase and vocabulary management, rehabilitation practice, and role-based access for patients, caregivers, healthcare professionals, and administrators.
 
 This project was developed using the Rapid Application Development (RAD) methodology and evaluated through Functional Testing and User Acceptance Testing (UAT).
 
