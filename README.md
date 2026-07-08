@@ -15,7 +15,7 @@ Echozy is a Final Year Project developed as part of the Bachelor of Software Eng
 
 The platform enables patients to communicate through touch-based interaction while allowing caregivers and healthcare professionals to personalize communication content, monitor patient progress, and support rehabilitation.
 
-This project was developed using the Rapid Application Development (RAD) methodology and evaluated through Functional Testing and User Acceptance Testing (UAT). :contentReference[oaicite:0]{index=0}
+This project was developed using the Rapid Application Development (RAD) methodology and evaluated through Functional Testing and User Acceptance Testing (UAT).
 
 ---
 
