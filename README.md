@@ -2,10 +2,11 @@
 
 > A Web-Based Multilingual Augmentative and Alternative Communication (AAC) Platform for Stroke Patients with Communication Impairments.
 
-![License](https://img.shields.io/badge/license-Private-blue)
 ![Status](https://img.shields.io/badge/status-Continuous%20Enhancements-yellow)
 ![Platform](https://img.shields.io/badge/platform-Web-blue)
+![Frontend](https://img.shields.io/badge/frontend-HTML5%20CSS3%20JavaScript-blue)
 ![UNIMAS](https://img.shields.io/badge/University-UNIMAS-red)
+![License](https://img.shields.io/badge/license-Private-blue)
 
 ---
 
