@@ -6,7 +6,7 @@
 ![Platform](https://img.shields.io/badge/platform-Web-blue)
 ![Frontend](https://img.shields.io/badge/frontend-HTML5%20CSS3%20JavaScript-blue)
 ![UNIMAS](https://img.shields.io/badge/University-UNIMAS-red)
-![License](https://img.shields.io/badge/license-Private-blue)
+![License](https://img.shields.io/badge/license-Private-lightgrey)
 
 ---
 
