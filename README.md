@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 About Echozy
+## About Echozy
 
 Echozy is a Final Year Project developed as part of the Bachelor of Software Engineering (Hons.) at Universiti Malaysia Sarawak (UNIMAS). It is designed to support stroke patients with communication impairments by providing an accessible, multilingual Augmentative and Alternative Communication (AAC) platform.
 
@@ -20,7 +20,7 @@ This project was developed using the Rapid Application Development (RAD) methodo
 
 ---
 
-# 🎯 Objectives
+# Objectives
 
 - Develop a multilingual AAC platform
 - Support Bahasa Malaysia and English
@@ -30,9 +30,9 @@ This project was developed using the Rapid Application Development (RAD) methodo
 
 ---
 
-# ✨ Key Features
+# Key Features
 
-## 👤 Stroke Patient
+## Stroke Patient
 
 - Touch-based communication board
 - Frequently Used phrases
@@ -42,21 +42,21 @@ This project was developed using the Rapid Application Development (RAD) methodo
 - Responsive interface
 - Large accessibility buttons
 
-## 👨‍👩‍👧 Caregiver
+## Caregiver
 
 - Manage patients
 - Personalize phrases
 - Personalize vocabulary
 - View patient information
 
-## 🏥 Healthcare Provider
+## Healthcare Provider
 
 - Manage assigned patients
 - Monitor communication usage
 - View activity logs
 - Track rehabilitation progress
 
-## 🔑 Administrator
+## Administrator
 
 - Manage default phrases
 - Manage default vocabulary
@@ -64,7 +64,7 @@ This project was developed using the Rapid Application Development (RAD) methodo
 
 ---
 
-# 🖼️ Screenshots
+# Screenshots
 
 ## Homepage
 
@@ -96,7 +96,7 @@ This project was developed using the Rapid Application Development (RAD) methodo
 
 ---
 
-# 🏗️ System Architecture
+# System Architecture
 
 ![Architecture](assets/2_architecture/1_system-architecture.png)
 
@@ -113,7 +113,7 @@ Echozy follows a modern web architecture consisting of:
 
 ---
 
-# 💻 Technology Stack
+# Technology Stack
 
 | Category | Technology |
 |-----------|------------|
@@ -129,7 +129,7 @@ Echozy follows a modern web architecture consisting of:
 
 ---
 
-# 📊 Development Methodology
+# Development Methodology
 
 Rapid Application Development (RAD)
 
@@ -140,7 +140,7 @@ Rapid Application Development (RAD)
 
 ---
 
-# 📄 Installation
+# Installation
 
 The complete application source code is maintained in a private repository.
 
@@ -148,7 +148,7 @@ This repository is intended to showcase the project architecture, documentation,
 
 ---
 
-# 🔐 Source Code Access
+# Source Code Access
 
 The complete source code is **not publicly available** due to research, academic, and intellectual property considerations.
 
@@ -156,7 +156,7 @@ If you are a recruiter, hiring manager, or academic reviewer and would like to r
 
 ---
 
-## 📩 Request Access
+## Request Access
 
 You may request temporary access by creating a GitHub Issue using the template below.
 
@@ -182,7 +182,7 @@ LinkedIn:
 
 ---
 
-# 🎓 Research Information
+# Research Information
 
 **Title**
 
@@ -198,7 +198,7 @@ Universiti Malaysia Sarawak (UNIMAS)
 
 ---
 
-# 📜 License
+# License
 
 This repository is for portfolio and demonstration purposes only.
 
