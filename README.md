@@ -64,6 +64,23 @@ This project was developed using the Rapid Application Development (RAD) methodo
 
 ---
 
+# System Architecture
+
+![Architecture](assets/2_architecture/1_system-architecture.png)
+
+Echozy follows a modern web architecture consisting of:
+
+- HTML
+- CSS
+- JavaScript
+- Supabase Authentication
+- PostgreSQL Database
+- Supabase Storage
+- OpenAI Text-to-Speech
+- Vercel Deployment
+
+---
+
 # Screenshots
 
 ## Homepage
@@ -93,23 +110,6 @@ This project was developed using the Rapid Application Development (RAD) methodo
 ## Practice Communication
 
 ![Practice](assets/1_screenshots/7_practice.png)
-
----
-
-# System Architecture
-
-![Architecture](assets/2_architecture/1_system-architecture.png)
-
-Echozy follows a modern web architecture consisting of:
-
-- HTML
-- CSS
-- JavaScript
-- Supabase Authentication
-- PostgreSQL Database
-- Supabase Storage
-- OpenAI Text-to-Speech
-- Vercel Deployment
 
 ---
 
