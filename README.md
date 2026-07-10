@@ -150,6 +150,8 @@ This repository is intended to showcase the project architecture, documentation,
 
 # Source Code Access
 
+![Echozy Repository](assets/2_architecture/echozy-repo.png)
+
 The complete source code is **not publicly available** due to research, academic, and intellectual property considerations.
 
 If you are a recruiter, hiring manager, or academic reviewer and would like to review the implementation, please request access.
